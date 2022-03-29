@@ -29,6 +29,6 @@ Supplements and Further reading:
 
 ### Contact
 
-Interested in discussing these topics or more? Hit me up at [my email](rdheerajp@gmail.com) if you find these exciting or you have any recommendations for me to read!! (Could be anything from history and philosophy to quantum machine learning and turbulent flows.
+Interested in discussing these topics or more? Hit me up at [my email](mailto:rdheerajp@gmail.com) if you find these exciting or you have any recommendations for me to read!! (Could be anything from history and philosophy to quantum machine learning and turbulent flows.)
 
 See ya!
